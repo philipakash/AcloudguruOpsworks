@@ -2,7 +2,7 @@
 <html lang="en">
 
     <head>
-        <title>Hello Cloud Gurus</title>
+        <title>Hello This is Akash here learning Ops Work</title>
     </head>
 
     <body>
